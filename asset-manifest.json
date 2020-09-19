@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PortfolioPrateek/static/css/main.5facb584.chunk.css",
-    "main.js": "/PortfolioPrateek/static/js/main.50c00b8f.chunk.js",
-    "main.js.map": "/PortfolioPrateek/static/js/main.50c00b8f.chunk.js.map",
+    "main.js": "/PortfolioPrateek/static/js/main.f55579de.chunk.js",
+    "main.js.map": "/PortfolioPrateek/static/js/main.f55579de.chunk.js.map",
     "runtime-main.js": "/PortfolioPrateek/static/js/runtime-main.9859ce8c.js",
     "runtime-main.js.map": "/PortfolioPrateek/static/js/runtime-main.9859ce8c.js.map",
     "static/js/2.48b8d7f0.chunk.js": "/PortfolioPrateek/static/js/2.48b8d7f0.chunk.js",
     "static/js/2.48b8d7f0.chunk.js.map": "/PortfolioPrateek/static/js/2.48b8d7f0.chunk.js.map",
     "index.html": "/PortfolioPrateek/index.html",
-    "precache-manifest.9f3ee33bebe0a364e190faa62d339f03.js": "/PortfolioPrateek/precache-manifest.9f3ee33bebe0a364e190faa62d339f03.js",
+    "precache-manifest.6fad2c6f3bc80e53d1be385485a20730.js": "/PortfolioPrateek/precache-manifest.6fad2c6f3bc80e53d1be385485a20730.js",
     "service-worker.js": "/PortfolioPrateek/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/PortfolioPrateek/static/css/main.5facb584.chunk.css.map",
     "static/js/2.48b8d7f0.chunk.js.LICENSE.txt": "/PortfolioPrateek/static/js/2.48b8d7f0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9859ce8c.js",
     "static/js/2.48b8d7f0.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.50c00b8f.chunk.js"
+    "static/js/main.f55579de.chunk.js"
   ]
 }
